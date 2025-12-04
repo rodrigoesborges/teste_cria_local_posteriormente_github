@@ -4,7 +4,7 @@ Seguem exercícios completados e em andamento da seguinte lista:
 
  - [x] 1) Faça um script que escolhe um número aleatório entre 0 e 100, testa com o input do usuário, fornece informações se está acima ou abaixo do número secreto, conta o número de tentativas, identifica e parabeniza o usuário quando acertar.
 
- - [x] 2) Criar um FORK de um repositório (mesma coisa que clone–copia), mas permite sugerir alterações. Inclua o seu email no DOU IPEA…
+ - [x] 2) Criar um FORK de um repositório (mesma coisa que clone–copia), mas permite sugerir alterações. Inclua o seu email no DOU IPEA… [https://github.com/rodrigoesborges/ipea_dou_bot](https://github.com/rodrigoesborges/ipea_dou_bot)
 
  - [x] 3) Elasticidade-preço da demanda (funções e listas). Escreva uma função que calcule a elasticidade-preço da demanda a partir de listas de preços e quantidades. Retorne a elasticidade média e classifique como elástica (>1), inelástica (<1) ou unitária (=1).
 
