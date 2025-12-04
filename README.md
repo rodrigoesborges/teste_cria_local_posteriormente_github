@@ -8,7 +8,9 @@ Seguem exercícios completados e em andamento da seguinte lista:
 
  - [x] 3) Elasticidade-preço da demanda (funções e listas). Escreva uma função que calcule a elasticidade-preço da demanda a partir de listas de preços e quantidades. Retorne a elasticidade média e classifique como elástica (>1), inelástica (<1) ou unitária (=1).
 
- - [x] 4) Crie um dicionário onde as chaves são nomes de municípios e os valores são PIB per capita. Permita inserir, remover e consultar municípios e retorne o município com maior e menor PIB per capita.
+ - [x] 4) Crie um dicionário onde as chaves são nomes de municípios e os valores são PIB per capita. 
+ - [ ] 4.1) Permita inserir, remover e consultar municípios e 
+ - [x] 4.3) retorne o município com maior e menor PIB per capita.
 
  - [ ] 5) Carregue um CSV com inflação mensal. Calcule média, mediana, desvio-padrão e um rolling mean de 6 meses. Identifique meses com inflação acima de um limiar, retornando apenas essas linhas.
 
